@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "serve": "^14.1.2"
+  },
+  "name": "turtle",
+  "description": "Repot innehåller ett enkelt kodbibliotek för att rita vektorgrafik. Metoderna är avsedda att likna Scratch så mycket som möjligt. https://scratch.mit.edu/",
+  "version": "1.0.0",
+  "main": "turtle.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lejonmanen/turtle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lejonmanen/turtle/issues"
+  },
+  "homepage": "https://github.com/lejonmanen/turtle#readme"
+}

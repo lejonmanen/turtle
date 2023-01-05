@@ -7,6 +7,7 @@ Repot innehåller ett enkelt kodbibliotek för att rita vektorgrafik. Metoderna 
 
 1. Gör en fork av detta repo. (Eller klona repot och kopiera filerna till ett eget repo. Om du klonar, kan du inte pusha dina egna commits.)
 2. Ändra i start-blocket i script.js
+3. Starta med "Go Live" i VS Code eller skriv i terminalen: `npm install` och `npm run start`
 
 
 ### Exempel användning
