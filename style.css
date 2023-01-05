@@ -1,0 +1,6 @@
+canvas {
+	border: 2px solid darkgray;
+	/* Styr hur stor canvas ska bli på webbsidan */
+	width: 400px;
+	height: 400px;
+}
